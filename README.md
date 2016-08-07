@@ -1,13 +1,14 @@
-# What's ThuThesis?
-ThuThesis is a LaTeX thesis template package for Tsinghua University supporting from bachelor, master, doctor dissertations to post-doc report. Since the users of this package are supposed to be Chinese or those understand Chinese, the following of this file and all other documents are written in Chinese only.
 
-# ThuThesis是什么？
-ThuThesis为 <b>T</b>sing<b>h</b>ua <b>U</b>niversity <b>Thesis</b> LaTeX Template之缩写。
+# 来源
+由于xueruini写的清华大学论文模板ThuThesis非常好用，因此在其基础上稍作修改，用来写我的博士后出站报告，也就有了将其fork为东北大学学位论文模板的念头。在此，感谢大神xueruini的工作！
 
-此宏包旨在建立一个简单易用的清华大学学位论文LaTeX模板，包括本科综合论文训练、硕士论文、博士论文、博士哲学论文以及博士后出站报告。现在支持本科、硕士、博士论文、博士后出站报告格式，对其它格式（还有么？）的支持会陆续加入。
+# NeuThesis是什么？
+NeuThesis为 <b>N</b>orheastern<b></b> <b>U</b>niversity <b>Thesis</b> LaTeX Template之缩写，是ThuThesis的forked版本。
+
+此宏包旨在建立一个简单易用的东北大学学位论文LaTeX模板，包括本科综合论文训练、硕士论文、博士论文、博士哲学论文以及博士后出站报告。现在支持本科、硕士、博士论文、博士后出站报告格式。
 
 # 文档
-请[下载](https://github.com/xueruini/thuthesis/releases)模板，里面包括具体使用说明以及示例文档：
+没有写专门的文档，请[下载](https://github.com/xueruini/thuthesis/releases)模板，里面包括具体使用说明以及示例文档：
 
 * 模板使用说明 (thuthesis.pdf)
 * 示例文档 (main.pdf)
